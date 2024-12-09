@@ -10,7 +10,7 @@ Doing in Golang for my own practice and in Python for my college.
 - [X] Day 6 (Wasted time since I ran part5 code atleast 5 times thinking it was part 6 🙂)
 - [X] Day 7
 - [X] Day 8
-- [ ] Day 9
+- [X] Day 9
 - [ ] Day 10
 - [ ] Day 11
 - [ ] Day 12
