@@ -11,7 +11,7 @@ Doing in Golang for my own practice and in Python for my college.
 - [X] Day 7
 - [X] Day 8
 - [X] Day 9
-- [ ] Day 10
+- [X] Day 10
 - [ ] Day 11
 - [ ] Day 12
 - [ ] Day 13
